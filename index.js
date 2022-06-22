@@ -90,7 +90,7 @@
 let nombre = prompt("Quien sos?")
 
 if (true) {
-    alert(" Hola " + nombre + ", que haces chupa pija?");
+    alert(" Hola " + nombre + ", cómo estas chupa pija?");
 } else {
     alert("pone tu nombre, corneta")
 }
